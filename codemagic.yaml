@@ -17,3 +17,4 @@ workflows:
 
     artifacts:
       - build/ios/ipa/*.ipa
+      - build/ios/archive/**/*.ipa
